@@ -15,3 +15,8 @@ Fake transparent(using mesh - Like SE*A MOD*L1 or 2) shader | SE○AのMOD○L1/
 - PS2.0等の制約がある環境ではきっと動きません。モバイルでもきっと無理。
 - 改造はご自由に。
 
+作者
+----
+D.N.A. (D.N.A.Softwares)
+
+twitter @dnasoftwares / http://www.dna-softwares.com/
