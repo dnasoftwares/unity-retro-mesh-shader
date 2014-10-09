@@ -1,6 +1,8 @@
 unity-retro-mesh-shader
 =======================
 
+![](http://www.dna-softwares.com/u/mesh_shader.jpg)
+
 Fake transparent(using mesh - Like SE*A MOD*L1 or 2) shader | SE○AのMOD○L1/2みたいなメッシュ半透明シェーダ
 
 - Made with Shader Forge.  http://acegikmo.com/shaderforge/
